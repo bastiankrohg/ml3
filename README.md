@@ -1,4 +1,4 @@
-# Lab 1 Evaluation
+# Lab Evaluation
 
 Names, Surnames, and Group : (to complete by 2 students)
 
